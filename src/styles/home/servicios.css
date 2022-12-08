@@ -1,0 +1,326 @@
+@media screen and (min-width: 1367px) {
+#conte-servicios {
+    height: 80vh;
+    background-color: #FAFAFA;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+
+}
+
+h1#back-h1 {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12rem;
+    display: flex;
+    text-align: center;
+    color: #1FCDAC;
+    opacity: 0.1;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: auto;
+    z-index: 1;
+    position: absolute
+}
+
+#section-serv {
+    display: flex;
+    z-index: 2;
+    width: 90%;
+    margin: auto;
+
+}
+
+h1#titulo1 {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 3.5rem;
+    line-height: 30%;
+    color: #292929
+}
+
+h1#serv {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 5rem;
+    color: #1FCDAC;
+    margin-top: 1%;
+}
+
+p#text-p {
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2rem;
+    line-height: 2.5rem;
+    color: #292929;
+    max-width: 80%;
+
+}
+
+div#text {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#elipse1 {
+    box-sizing: border-box;
+    background: radial-gradient(45.35% 49.78% at 49.78% 50.22%, #30E2C5 0%, #1FCDAC 100%);
+    border: 15px solid #1FCDAC;
+    box-shadow: 0px 0px 70px 5px rgb(31 205 172 / 79%);
+    border-radius: 50%;
+    width: 20em;
+    height: 20em;
+}
+
+#elipse3 {
+    box-sizing: border-box;
+    background: radial-gradient(45.35% 49.78% at 49.78% 50.22%, #30E2C5 0%, #1FCDAC 100%);
+    border: 15px solid #1FCDAC;
+    box-shadow: 0px 0px 70px 5px rgb(31 205 172 / 79%);
+    border-radius: 50%;
+    width: 25em;
+    height: 25em;
+}
+
+#elipse2 {
+    background: radial-gradient(45.35% 49.78% at 49.78% 50.22%, #005EA0 0%, #003459 100%);
+    border: 15px solid #003459;
+    box-shadow: 0px 0px 70px 5px #003459;
+    border-radius: 50%;
+    width: 20em;
+    height: 20em;
+}
+
+div#globos {
+    display: flex;
+    flex-direction: row;
+    width: 60%;
+    height: 50vh;
+    justify-content: space-around;
+}
+
+div#globo1 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+div#globo2 {
+    display: flex;
+    align-items: flex-end;
+}
+
+div#globo3 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+#globos img {
+    width: 60%;
+    margin: auto;
+}
+
+h3 {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2em;
+    text-align: center;
+    margin: 0;
+    color: #FAFAFA;
+}
+
+div#conte-globo {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
+div#conte-globo-p {
+    width: 70%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+}
+
+
+@media screen and (max-width: 1366px) {
+    #conte-servicios {
+        height: 80vh;
+        background-color: #FAFAFA;
+        width: 100vw;
+        display: flex;
+        align-items: center;
+
+    }
+
+    h1#back-h1 {
+        font-family: 'Outfit';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12rem;
+        display: flex;
+        text-align: center;
+        color: #1FCDAC;
+        opacity: 0.1;
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        margin: auto;
+        z-index: 1;
+        position: absolute
+    }
+
+    #section-serv {
+        display: flex;
+        z-index: 2;
+        width: 90%;
+        margin: auto;
+
+    }
+
+    h1#titulo1 {
+        font-family: 'Outfit';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 3rem;
+        line-height: 30%;
+        color: #292929;
+        
+        
+    }
+
+    h1#serv {
+        font-family: 'Outfit';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 4rem;
+        color: #1FCDAC;
+        margin-top: 1%;
+    }
+
+    p#text-p {
+        font-family: 'PT Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 1.125rem;
+        color: #292929;
+        max-width: 80%;
+
+    }
+
+    div#text {
+        width: 30%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    #elipse1 {
+        box-sizing: border-box;
+        background: radial-gradient(45.35% 49.78% at 49.78% 50.22%, #30E2C5 0%, #1FCDAC 100%);
+        border: 15px solid #1FCDAC;
+        box-shadow: 0px 0px 70px 5px rgb(31 205 172 / 79%);
+        border-radius: 50%;
+        width: 10em;
+        height: 10em;
+    }
+
+    #elipse3 {
+        box-sizing: border-box;
+        background: radial-gradient(45.35% 49.78% at 49.78% 50.22%, #30E2C5 0%, #1FCDAC 100%);
+        border: 15px solid #1FCDAC;
+        box-shadow: 0px 0px 70px 5px rgb(31 205 172 / 79%);
+        border-radius: 50%;
+        width: 15em;
+        height: 15em;
+    }
+
+    #elipse2 {
+        background: radial-gradient(45.35% 49.78% at 49.78% 50.22%, #005EA0 0%, #003459 100%);
+        border: 15px solid #003459;
+        box-shadow: 0px 0px 70px 5px #003459;
+        border-radius: 50%;
+        width: 10em;
+        height: 10em;
+    }
+
+    div#globos {
+        display: flex;
+        flex-direction: row;
+        width: 60%;
+        height: 50vh;
+        justify-content: space-around;
+    }
+
+    div#globo1 {
+        display: flex;
+        align-items: flex-start;
+        justify-content: center;
+    }
+
+    div#globo2 {
+        display: flex;
+        align-items: flex-end;
+    }
+
+    div#globo3 {
+        display: flex;
+        align-items: flex-start;
+        justify-content: center;
+    }
+
+    #globos img {
+        width: 60%;
+        margin: auto;
+    }
+
+    h3 {
+        font-family: 'Outfit';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 1.2em;
+        text-align: center;
+        margin: 0;
+        color: #FAFAFA;
+    }
+
+    div#conte-globo {
+        width: 100%;
+        height: 100%;
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        align-content: center;
+        justify-content: center;
+    }
+
+    div#conte-globo-p {
+        width: 70%;
+        height: 70%;
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        align-content: center;
+        justify-content: center;
+    }
+}
